@@ -336,6 +336,7 @@ A bad review:
 
 - `references/optimization-patterns.md` — candidate patterns and anti-patterns.
 - `references/measurement-checklist.md` — counters, tools, benchmark design.
+- `references/case-study-latency-slippage.md` — worked 64-option case study, four optimization rounds, failure cases, and mapping back to this workflow.
 - `templates/review-report.md` — final report template.
 - `scripts/scan_candidates.py` — rough **C++-only** static scan for common hot-path patterns; inventory only, never proof.
 
